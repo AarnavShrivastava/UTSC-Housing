@@ -84,14 +84,16 @@ hr {
 
 #header-wrapper {
 	overflow: hidden;
-	height: 100px;
+    	height: 100px;
+    	background: #1E3765;
 }
 
 #header {
 	width: 1000px;
 	height: 150px;
 	margin: 0 auto;
-	padding: 0px 0px;
+    	padding: 0px 0px;
+    	background: #1E3765;
 }
 
 /* Logo */
