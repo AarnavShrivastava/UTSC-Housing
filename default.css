@@ -86,13 +86,12 @@ hr {
 	overflow: hidden;
     	height: 100px;
     	background: #1E3765;
+	width: 100%;
 }
 
 #header {
-	width: 1000px;
+	width: 100% t;
 	height: 150px;
-	margin: 0 auto;
-    	padding: 0px 0px;
     	background: #1E3765;
 }
 
@@ -166,8 +165,8 @@ hr {
 
 #page {
 	overflow: hidden;
-	width: 1000px;
-	margin: 0px auto;
+	width: 10000px;
+	margin: 0 auto;
 }
 
 #page a {
@@ -240,12 +239,13 @@ hr {
 
 #footer-wrapper {
 	background: url(images/img02.jpg) repeat;
+	width 100%;
 }
 
 #footer-content {
 	overflow: hidden;
 	width: 1000px;
-	margin: 0px auto;
+	margin: 0 auto;
 	padding: 50px 0px 50px 0px;
 	color: #717171;
 }
@@ -287,6 +287,7 @@ hr {
 	overflow: hidden;
 	height: 350px;
 	background: url(images/img02.jpg) repeat;
+	width 100%;
 }
 
 #banner {
