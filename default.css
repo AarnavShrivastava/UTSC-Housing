@@ -350,3 +350,16 @@ ul.style1 .first {
 	padding-top: 0px;
 	border-top: none;
 }
+
+.social-media a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    padding: 5px;
+    background-color: #0077b5;
+    color: white;
+    border-radius: 5px;
+}
+.social-media a:hover {
+    background-color: #005c8e;
+}
