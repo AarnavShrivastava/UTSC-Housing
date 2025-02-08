@@ -227,6 +227,8 @@ hr {
 	margin: 0 auto;
 	padding: 50px 0px 15px 0px;
 	font-family: 'Abel', sans-serif;
+	background: #1E3765;
+    	color: white;
 }
 
 #footer p {
@@ -236,11 +238,11 @@ hr {
 	font-size: 14px;
 	text-transform: uppercase;
 	text-align: center;
-	color: #81AABE;
+	color: white;
 }
 
 #footer a {
-	color: #81AABE;
+	color: #FFFFFF;
 }
 
 /* Three Column Footer Content */
