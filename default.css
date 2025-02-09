@@ -80,11 +80,10 @@ hr {
 #header-wrapper {
 	overflow: hidden;
     	height: 100px;
-    	background: #1E3765;
+    	background: #FFFFFF;
 	width: 100%;
-	padding-left: 20px;
-    	padding-right: 20px;
-	margin-top: 0;
+	padding: 10px 0;
+	text-align: center;
 }
 
 #header {
@@ -351,15 +350,30 @@ ul.style1 .first {
 	border-top: none;
 }
 
+#social-bar {
+    background: #d3d3d3;
+    padding: 5px 0;
+    text-align: center;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
 .social-media a {
     display: inline-block;
-    margin-right: 10px;
-    text-decoration: none;
-    padding: 5px;
+    padding: 5px 10px;
     background-color: #0077b5;
     color: white;
-    border-radius: 5px;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background 0.3s ease-in-out;
 }
+
 .social-media a:hover {
     background-color: #005c8e;
 }
